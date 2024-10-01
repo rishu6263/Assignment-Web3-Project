@@ -23,3 +23,10 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 The easiest way to deploy Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/5c8e1c65-6127-4607-ba7c-b4b2da93817f)
+![image](https://github.com/user-attachments/assets/ef914de2-7edc-4cb4-a4f0-7dcff0458427)
+![image](https://github.com/user-attachments/assets/ddf65719-a82d-45b2-962d-155ce0d2c8de)
+
+
